@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\Mika\source\repos\AssaultCubeCheat\main.cpp(26): warning C4312: "Typumwandlung": Konvertierung von "int" in größeren Typ "LPVOID"
+C:\Users\Mika\source\repos\AssaultCubeCheat\main.cpp(34): warning C4312: "Typumwandlung": Konvertierung von "int" in größeren Typ "LPVOID"
+C:\Users\Mika\source\repos\AssaultCubeCheat\main.cpp(43): warning C4312: "Typumwandlung": Konvertierung von "int" in größeren Typ "LPVOID"
+  Code wird generiert.
+  9 of 10 functions (90.0%) were compiled, the rest were copied from previous compilation.
+    7 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  AssaultCubeCheat.vcxproj -> C:\Users\Mika\source\repos\AssaultCubeCheat\x64\Release\AssaultCubeCheat.exe
